@@ -1,0 +1,11 @@
+.list {
+    position: relative;
+    padding-top: 180px;
+    padding-bottom: 1px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.scroll {
+    background-image: url("img/store1.jpg");
+    
+}
